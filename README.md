@@ -1,2 +1,2 @@
 # picture-slider
-New PIcture Slider Website
+New Picture Slider Website
